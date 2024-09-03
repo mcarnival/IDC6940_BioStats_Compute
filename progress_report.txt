@@ -18,7 +18,7 @@ Michael Carnival
     literature review: Sustainable and intelligent time-series models for epidemic disease
 
 Gianyce Gesualdo
-    literature review:
+    literature review: Prediction and Analysis of COVID-19 Daily New Cases and Cumulative Cases: Time Series Forecasting and Machine Learning Models.
 
 notes discussed.
 * We have planned for weekly meeting on monday around 8:30 pm
